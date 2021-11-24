@@ -1,0 +1,49 @@
+body {
+    background-color: #661bb1;
+    color: white;
+    margin: none;
+    padding: none;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.nav-and-title {
+    background-color: #a142ff;
+}
+
+.nav-purple {
+    font-family: 'Signika Negative', sans-serif;
+    font-weight: 400;
+    background: #a12eff;
+    background: linear-gradient(100deg, rgba(161,46,255,1) 0%, rgba(125,0,235,1) 100%);
+}
+
+.btn-purple {
+    background-color: #5900B3;
+    border: none;
+    font-family: 'Signika Negative', sans-serif;
+    font-weight: 400;
+    color: white;
+    margin: 0 0.2em;
+}
+
+h1 {
+    font-family: 'Signika Negative', sans-serif;
+    font-weight: 700;
+
+}
+
+.card-purple {
+    background-color: #a142ff;
+}
+
+.card-header {
+    background-color: #a12eff;
+}
+
+.card {
+    border: none;
+}
+
+footer {
+    background-color: #a142ff;
+}
