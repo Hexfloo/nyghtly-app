@@ -1,5 +1,5 @@
-# nyghtly-app
-Website for a (fake) sleep/relaxation app. 😴🧘🌺<br>
+# nyghtly-app 😴🧘🌺
+Website for a (fake) sleep/relaxation app. <br>
 Made this to practice Bootstrap v5.<br><br>
 <b>Try it here:</b> https://hexfloo.github.io/nyghtly-app/
 <br>
